@@ -1,1 +1,1 @@
-dependencies: /Users/mgrassotti/code/pg/HelloWorld/HelloWorld/main.m
+dependencies: /Users/mgrassotti/code/me/hellodeals/HelloWorld/main.m

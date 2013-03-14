@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVWhitelist.m \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVWhitelist.h
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVWhitelist.m \
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVWhitelist.h

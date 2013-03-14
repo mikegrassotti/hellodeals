@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVUserAgentUtil.m \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVUserAgentUtil.h
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVUserAgentUtil.m \
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVUserAgentUtil.h

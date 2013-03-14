@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVWebViewDelegate.m \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVWebViewDelegate.h \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVAvailability.h
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVWebViewDelegate.m \
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVWebViewDelegate.h \
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVAvailability.h

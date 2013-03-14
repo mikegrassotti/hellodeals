@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSDictionary+Extensions.m \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSDictionary+Extensions.h
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/NSDictionary+Extensions.m \
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/NSDictionary+Extensions.h

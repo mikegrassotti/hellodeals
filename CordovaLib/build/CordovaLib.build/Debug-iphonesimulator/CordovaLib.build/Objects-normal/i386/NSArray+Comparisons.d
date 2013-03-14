@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSArray+Comparisons.m \
-  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSArray+Comparisons.h
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/NSArray+Comparisons.m \
+  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/NSArray+Comparisons.h
