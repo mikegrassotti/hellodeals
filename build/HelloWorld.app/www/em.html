@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://code.jquery.com/jquery.min.js"></script>
+<link href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.js"></script>
+<meta charset=utf-8 />
+<title>JS Bin</title>
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.3/handlebars.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/ember.js/1.0.0-rc.1/ember.js"></script>
+  <script src="https://raw.github.com/ahmacleod/data/dist/dist/ember-data.js"></script>
+  
+</head>
+<body>
+  <script type="text/x-handlebars" data-template-name="index">
+    <h2>{{content.length}} Deals:</h2>
+    <button {{action loadMore}}>Load More</button>
+  <ul class="thumbnails">
+  {{#each controller}}
+    <li class="span4">
+    <a href="#" class="thumbnail">
+     {{title}}
+      <img {{bindAttr src="thumbnailUrl" alt="title"}}></img>
+    </a>
+    </li>
+  {{/each}}
+  </ul>
+</script>
+
+<script>
+App = Ember.Application.create({});
+
+App.LoadingRoute = Ember.Route.extend({
+  enter: function() {
+    console.log('loading enter');
+  },
+  exit: function() {
+    console.log('loading exit');
+  }
+});
+App.ApplicationRoute = Ember.Route.extend({
+  model: function() {
+    return App.Deal.find();
+  }
+});
+
+App.IndexRoute = Ember.Route.extend({
+  model: function() {
+    return App.Deal.find();
+  }
+});
+
+App.IndexController = Ember.ArrayController.extend({
+  page: 1,
+  loadMore: function() {
+    this.incrementProperty('page');
+    App.Deal.find({page: this.get('page')});
+  }
+});
+
+App.Store = DS.Store.extend({
+  revision: 12,
+  mappings: {
+      query: App.Query
+  }
+});
+
+App.CustomSerializer = DS.JSONSerializer.extend({
+  extractMany: function(loader, json, type, records) {
+    data = {};
+    data.deals = json.deals.map(function(item) {return item.deal;});
+    this._super(loader, data, type, records);
+  }
+});
+
+DS.RESTAdapter.reopen({
+  namespace: 'v2',
+  url: 'http://api.sqoot.com',
+  serializer: App.CustomSerializer,
+  ajax: function(url, type, hash) {
+    hash.url = url;
+    hash.type = type;
+    hash.dataType = 'jsonp';
+    hash.contentType = 'application/json; charset=utf-8';
+    hash.context = this;
+    hash.data = hash.data || {};
+    hash.data.api_key = 'c6t5yl';
+    if (hash.data && type !== 'GET') {
+      hash.data = JSON.stringify(hash.data);
+    }
+    console.log('scheduling ajax...');
+    Ember.run.later(this, function() {
+      console.log('running ajax after delay...');
+      jQuery.ajax(hash);
+    }, 1000);
+    
+  }
+});
+
+App.Deal = DS.Model.extend({
+  title: DS.attr('string'),
+  image_url: DS.attr('string'),
+  thumbnailUrl: function() {
+    return this.get('image_url') + "&geometry=400x400C";
+  }.property('image_url')
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVFileTransfer.m \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDV.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVAvailability.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVPlugin.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVViewController.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVURLProtocol.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVAccelerometer.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVBattery.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVCamera.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVCapture.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVFile.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVConnection.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVReachability.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVContact.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVContacts.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVDebug.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVDebugConsole.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVDevice.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVFileTransfer.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVLocation.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVNotification.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVSound.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVSplashScreen.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVLocalStorage.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVInAppBrowser.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSData+Base64.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/UIDevice+Extensions.h \
+  /Users/mgrassotti/code/pg/HelloWorld/CordovaLib/Classes/CDVJSON.h
