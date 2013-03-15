@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVReachability.m \
-  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVReachability.h
+  /Users/mgrassotti/code/pg/hellodeals/CordovaLib/Classes/CDVReachability.m \
+  /Users/mgrassotti/code/pg/hellodeals/CordovaLib/Classes/CDVReachability.h

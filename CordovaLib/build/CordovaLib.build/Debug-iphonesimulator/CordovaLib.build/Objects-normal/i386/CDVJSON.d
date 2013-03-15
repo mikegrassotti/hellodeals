@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVJSON.m \
-  /Users/mgrassotti/code/me/hellodeals/CordovaLib/Classes/CDVJSON.h
+  /Users/mgrassotti/code/pg/hellodeals/CordovaLib/Classes/CDVJSON.m \
+  /Users/mgrassotti/code/pg/hellodeals/CordovaLib/Classes/CDVJSON.h
