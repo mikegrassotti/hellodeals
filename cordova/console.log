@@ -45,3 +45,54 @@ Terminating in response to SpringBoard's termination.
 2013-03-15 03:31:27.474 HelloWorld[30917:c07] [LOG] running ajax after delay...
 2013-03-15 03:31:27.479 HelloWorld[30917:c07] [LOG] running ajax after delay...
 Terminating in response to SpringBoard's termination.
+2013-03-15 08:04:33.544 HelloWorld[31148:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:04:33.957 HelloWorld[31148:c07] Resetting plugins due to page load.
+2013-03-15 08:04:36.008 HelloWorld[31148:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:04:36.971 HelloWorld[31148:c07] [LOG] running ajax after delay...
+2013-03-15 08:04:36.976 HelloWorld[31148:c07] [LOG] running ajax after delay...
+2013-03-15 08:05:01.815 HelloWorld[31357:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:05:01.871 HelloWorld[31357:c07] Resetting plugins due to page load.
+2013-03-15 08:05:06.918 HelloWorld[31357:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:05:07.879 HelloWorld[31357:c07] [LOG] running ajax after delay...
+2013-03-15 08:05:07.887 HelloWorld[31357:c07] [LOG] running ajax after delay...
+Terminating in response to SpringBoard's termination.
+2013-03-15 08:05:29.852 HelloWorld[31409:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:05:29.909 HelloWorld[31409:c07] Resetting plugins due to page load.
+2013-03-15 08:05:33.114 HelloWorld[31409:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:05:34.091 HelloWorld[31409:c07] [LOG] running ajax after delay...
+2013-03-15 08:05:34.095 HelloWorld[31409:c07] [LOG] running ajax after delay...
+2013-03-15 08:06:18.056 HelloWorld[31617:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:06:18.111 HelloWorld[31617:c07] Resetting plugins due to page load.
+2013-03-15 08:06:18.769 HelloWorld[31617:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:09:03.709 HelloWorld[31832:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:09:03.755 HelloWorld[31832:c07] Resetting plugins due to page load.
+2013-03-15 08:09:03.930 HelloWorld[31832:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:11:17.705 HelloWorld[32053:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:11:17.761 HelloWorld[32053:c07] Resetting plugins due to page load.
+2013-03-15 08:11:18.011 HelloWorld[32053:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:11:37.424 HelloWorld[32080:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:11:37.483 HelloWorld[32080:c07] Resetting plugins due to page load.
+2013-03-15 08:11:38.611 HelloWorld[32080:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:11:54.593 HelloWorld[32103:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:11:54.753 HelloWorld[32103:c07] Resetting plugins due to page load.
+2013-03-15 08:11:55.160 HelloWorld[32103:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:16:05.888 HelloWorld[32151:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:16:05.927 HelloWorld[32151:c07] Resetting plugins due to page load.
+2013-03-15 08:16:08.607 HelloWorld[32151:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:16:09.581 HelloWorld[32151:c07] [LOG] running ajax after delay...
+2013-03-15 08:16:09.586 HelloWorld[32151:c07] [LOG] running ajax after delay...
+2013-03-15 08:18:23.155 HelloWorld[32188:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:18:23.221 HelloWorld[32188:c07] Resetting plugins due to page load.
+2013-03-15 08:18:26.128 HelloWorld[32188:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:18:27.105 HelloWorld[32188:c07] [LOG] running ajax after delay...
+2013-03-15 08:18:27.110 HelloWorld[32188:c07] [LOG] running ajax after delay...
+2013-03-15 08:19:20.493 HelloWorld[32218:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:19:20.547 HelloWorld[32218:c07] Resetting plugins due to page load.
+2013-03-15 08:19:22.860 HelloWorld[32218:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:19:23.833 HelloWorld[32218:c07] [LOG] running ajax after delay...
+2013-03-15 08:19:23.838 HelloWorld[32218:c07] [LOG] running ajax after delay...
+2013-03-15 08:19:49.747 HelloWorld[32244:c07] Multi-tasking -> Device: YES, App: YES
+2013-03-15 08:19:49.820 HelloWorld[32244:c07] Resetting plugins due to page load.
+2013-03-15 08:19:52.843 HelloWorld[32244:c07] Finished load of: file:///Users/mgrassotti/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/AB8A2E69-1CF6-46CC-B858-B1E40B7667D3/HelloWorld.app/www/index.html
+2013-03-15 08:19:53.789 HelloWorld[32244:c07] [LOG] running ajax after delay...
+2013-03-15 08:19:53.819 HelloWorld[32244:c07] [LOG] running ajax after delay...
